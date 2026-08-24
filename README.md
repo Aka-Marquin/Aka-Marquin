@@ -2,7 +2,7 @@
 ## Estudante
 ### Senac - Largo Treze
 
-<div align="right">
+<div align="center">
 
 <img src="assets/HTML.svg" width="55"  weight="55">
 
